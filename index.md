@@ -17,8 +17,8 @@
 ## A faire
 
 * [Lourdes](propheties/lourdes.md) (1858)
+* [Leon XIII](propheties/leon_xiii.md) (1884)
 * [La Fraudais](propheties/fraudais.md) (1873-1941)
-* [Saint Pie X](propheties/pie_x.md) (??)
 * [Fatima](propheties/fatima.md) (1917)
 * [Padre Pio](propheties/padre_pio.md) (1887-1968)
 * [Garabandal](propheties/garabandal.md) (1961-1965)
@@ -34,6 +34,6 @@
 * Thérèse Neumann ?
 * Catherine Emmerich ?
 * Don Bosco ?
-* Leon XIII
+* [Saint Pie X](propheties/pie_x.md) (??)
 * Holzauer ? Billot ?
 * "Trial, Tribulation, and Triumph" Desmond Birch
