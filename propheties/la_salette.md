@@ -86,3 +86,8 @@ Plus d'informations: http://www.christ-roi.net/index.php/La_Salette#Les_secrets
 
 * http://dafeizhontadoukoz.org/LaSalette.htm
 * http://jesusmarie.free.fr/apparitions_salette_secret.html
+
+Le secret est-il condamné par l'Eglise ?
+
+* http://www.virgo-maria.org/Documents/la-salette/La%20Salette-Lepidi-C-208.htm ([pdf](http://www.a-c-r-f.com/documents/R_P_A-LEPIDI_La-Salette_20p.pdf))
+* http://wordpress.catholicapedia.net/?p=4871
