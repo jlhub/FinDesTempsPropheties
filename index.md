@@ -1,11 +1,12 @@
 # La fin des temps selon les prophéties
 
-## Pages
+## Chronologie
 
-* [Chronologie](chronologie/index.md)
-* [Renonciation invalide de Benoît XVI](faits/renonciation_invalide_de_benoit_xvi.md)
-* [A propos](apropos.md)
-* [Notes](notes.md)
+* [Chronologie](chronologie)
+
+## Ressources
+
+* 
 
 ## Prophéties
 
@@ -13,27 +14,6 @@
 * [Malachie](propheties/malachie.md) (1590)
 * [La salette](propheties/la_salette.md) (1846)
 
+## Evénements
 
-## A faire
-
-* [Lourdes](propheties/lourdes.md) (1858)
-* [Leon XIII](propheties/leon_xiii.md) (1884)
-* [La Fraudais](propheties/fraudais.md) (1873-1941)
-* [Fatima](propheties/fatima.md) (1917)
-* [Padre Pio](propheties/padre_pio.md) (1887-1968)
-* [Garabandal](propheties/garabandal.md) (1961-1965)
-* [San Damiano](propheties/san_damiano.md) (1961-?)
-
-* Saint Louis-Marie Grignon de Montfort ?
-* Kérizinen ?
-* Escorial à Amparo Cueva ?
-* Our Lady of Good Success, in Quito, Ecuador ?
-* Heede ? (1947-1940, 1945)
-* Akita ?
-* En Ukraine ?
-* Thérèse Neumann ?
-* Catherine Emmerich ?
-* Don Bosco ?
-* [Saint Pie X](propheties/pie_x.md) (??)
-* Holzauer ? Billot ?
-* "Trial, Tribulation, and Triumph" Desmond Birch
+* [Renonciation invalide de Benoît XVI](evenements/renonciation_invalide_de_benoit_xvi.md) (11 févr. 2013)
